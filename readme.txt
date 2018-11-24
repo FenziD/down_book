@@ -1,2 +1,6 @@
-Git is a version control system.
-Git is free software.
+这是一个模拟在epubee网站上下载电子书的代码
+ip.txt是IP代理地址
+下载时候输入你所要存放的地址
+然后输入book的ID
+book的ID通过
+网页的“保存Cloud ID”,例如YcFnMZD8xEDsM440ezYcJQ%3d%3d
